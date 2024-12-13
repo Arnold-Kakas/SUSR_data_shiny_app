@@ -56,7 +56,7 @@ Contributions are welcome! If you have suggestions or improvements, please:
 5. Submit a pull request.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the GNU General Public License (GPL). See the LICENSE file for details.
 
 ## Contact
 For any inquiries or support, please contact [kakas@cleandata.sk].
